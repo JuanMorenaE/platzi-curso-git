@@ -64,6 +64,10 @@ article {
         margin-top: 1em;
         margin-left: 3em;
 
+        display: flex;
+        flex-direction: column;
+        gap: .7em;
+
         p {
             color: #aaa;
             font-size: 14px;
