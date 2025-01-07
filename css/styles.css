@@ -7,11 +7,16 @@
 
 body {
     background-color: #ddd;
-    min-height: 100dvh;
+}
 
-    display: grid;
+.wrapper {
+    padding: 2em 1em;
+    min-height: 100dvh;
+    display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+    gap: 1em;
 }
 
 article {
@@ -19,7 +24,6 @@ article {
     box-shadow: 0 5px 8px 0 #00000033;
     border: 2px solid #555;
     max-width: 800px;
-    margin: 0 1em;
     padding: 1.5em;
     border-radius: 10px;
 
