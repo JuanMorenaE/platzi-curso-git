@@ -1,3 +1,4 @@
-Esto es un archivo de prueba para el curso de Git y Github de Freddy Vega.
+Esto es un archivo de prueba para el curso de Git y Github Avanzado de Freddy Vega.
 
-Ayer terminé el curso de Entity Framework y preparé la presentación.
+Ayer terminé el curso de Entity Framework
+y preparé la presentación.
