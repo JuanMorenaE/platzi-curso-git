@@ -7,4 +7,4 @@ Enlace de Github Pages del respositorio: [Click Aquí](https://juanmorenae.githu
 
 ## Agradecimientos
 
-¡Gracias a Freddy Vega por este increible curso!
+¡Gracias a Freddy Vega por este increible curso! 💚
